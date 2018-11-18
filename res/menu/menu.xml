@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mi_del"
+        android:title="삭제"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/mi_add"
+        android:title="새 메모"
+        app:showAsAction="ifRoom"/>
+
+</menu>
